@@ -4,6 +4,9 @@ A covid 19 tracker to find cases in India
 Check the project on: https://prasun-das.web.app/HTML/covid.html
 
 # Stack used in the project:
+
+JSON file : https://api.covid19india.org/v3/data-all.json
+
 HTML5
  The main heart of our project.HTML5 is a markup language used for structuring and presenting content on the
  World Wide Web. It was the fifth and last major version of HTML that is a World Wide Web Consortium recommendation.

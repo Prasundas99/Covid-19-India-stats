@@ -1,4 +1,4 @@
-# Ccovid-19-India-stats
+# Covid-19-India-stats
 A covid 19 tracker to find cases in India 
 
 Check the project on: https://prasun-das.web.app/HTML/covid.html

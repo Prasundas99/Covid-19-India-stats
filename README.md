@@ -3,7 +3,7 @@ A covid 19 tracker to find cases in India
 
 Check the project on: https://prasun-das.web.app/HTML/covid.html
 
-# Screenshot of the project
+# Scr
 
 # Stack used in the project:
 

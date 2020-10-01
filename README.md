@@ -5,7 +5,10 @@ Check the project on: https://prasun-das.web.app/HTML/covid.html
 
 # Stack used in the project:
 
+JSON file or the api file from where these data is taken:
+
 JSON file : https://api.covid19india.org/v3/data-all.json
+
 
 HTML5
  The main heart of our project.HTML5 is a markup language used for structuring and presenting content on the
@@ -27,4 +30,5 @@ HTML5
 Firebase:
   Google Firebase is a Google-backed application development software that enables developers to develop iOS,
   Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment
+  Used for 
 

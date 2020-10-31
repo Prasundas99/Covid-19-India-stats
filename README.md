@@ -7,6 +7,8 @@ Check the project on: https://prasun-das.web.app/HTML/covid.html
 
 # Stack used in the project:
 
+Basic HTML CSS and JS.
+
 JSON file or the api file from where these data is taken:
 
 JSON file : https://api.covid19india.org/v3/data-all.json
